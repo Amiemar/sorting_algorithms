@@ -89,6 +89,5 @@ What you should learn from this project:
 ---
 
 ## Author
-* **Afolabi Fatai Kayode**
- - [GitHub](https://github.com/afkgit)
- - [Linkedin](https://www.linkedin.com/in/afolabi-fatai-kayode-79555749/)
+* **Abiola Mariam**
+ - [GitHub](https://github.com/Amiemar)
